@@ -3,10 +3,11 @@ import DramaticSequence from '@/components/DramaticSequence';
 import LoveLetter from '@/components/LoveLetter';
 import PhotoGallery from '@/components/PhotoGallery';
 import FloatingHearts from '@/components/FloatingHearts';
-import { messages } from '@/messages';
+import { useMessages } from '@/hooks/useMessages';
 
 const Index = () => {
   const [showSurprise, setShowSurprise] = useState(false);
+  const messages = useMessages();
 
   const handleSequenceComplete = () => {
     setShowSurprise(true);

@@ -1,8 +1,9 @@
 import { Card } from '@/components/ui/card';
 import girlKoalaBirthday from '@/assets/girl-koala-cake.jpg';
-import { messages } from '@/messages';
+import { useMessages } from '@/hooks/useMessages';
 
 const LoveLetter = () => {
+  const messages = useMessages();
   return (
     <div className="max-w-4xl mx-auto px-6 relative bg-white min-h-screen">
       {/* Background Koala Girl Image */}

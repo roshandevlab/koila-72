@@ -1,9 +1,10 @@
-All website text content - Edit this file to change text on your website
+INSTRUCTIONS: To change text on your website, edit the file "public/messages.json"
 
-Love Letter Section:
-=====================
-Title: 💌 My Precious Anjana - My Everything 💌
-Subtitle: On Your Magical Sweet 16th Birthday ✨
+Current website text content:
+=============================
+
+Love Letter Title: 💌 My Precious Anjana - My Everything 💌
+Love Letter Subtitle: On Your Magical Sweet 16th Birthday ✨
 
 Paragraph 1: My Beloved Anjana, today marks the most special day - your 16th birthday! 🎉 As I write this letter, my heart overflows with endless love and pure joy to celebrate you, the most precious soul who has become my entire universe.
 
@@ -21,10 +22,8 @@ Birthday Message: You are loved beyond infinity, beyond words, beyond time itsel
 Closing 1: With every beat of my heart, with all my soul,
 Closing 2: Your Forever Loving Heart 💕👑✨
 
-Photo Gallery Section:
-=====================
-Gallery Title: 🐨 Magical Birthday Memories for My Princess 🎂
-Gallery Subtitle: Every moment with you is a treasure worth celebrating! 💎✨
+Photo Gallery Title: 🐨 Magical Birthday Memories for My Princess 🎂
+Photo Gallery Subtitle: Every moment with you is a treasure worth celebrating! 💎✨
 
 Koala Card 1 Title: 🎉 Royal Koala Birthday Kingdom 🎉
 Koala Card 1 Text: Just like these adorable koalas celebrating in their magical kingdom, today is all about celebrating YOU, my beautiful princess Anjana! May your day overflow with infinite joy, endless laughter, and sweetness beyond imagination - just like these precious friends sharing their most special moment together! 👑✨🐨
@@ -38,16 +37,11 @@ Central Message 2: You don't just make every day brighter - you ARE the light, t
 Footer Title: 🎉 Sweet 16 Never Looked So Absolutely Divine! 🎉
 Footer Message: Anjana, my precious angel, you are not just the sweetest, most wonderful person - you are my heart, my soul, my reason for existing! Today we celebrate the most beautiful miracle that ever happened to this world - YOU! May this magical day overflow with infinite love, boundless laughter, and all your heart's deepest desires - especially endless koala cuddles! 🐨💕👑
 
-Final Section:
-==============
 Final Title: 🎉 Sweet 16 Never Looked So Beautiful! 🎉
 Final Message: Anjana, you are the sweetest, most wonderful person, and today we celebrate YOU! May this special day be filled with love, laughter, and all your favorite things - especially koalas! 🐨💕
 
-Instructions:
-=============
-To change any text on the website:
-1. Edit the content in the messages.txt file (this file)
-2. Copy the changes to src/messages.ts file
-3. The website will automatically update
-
-Note: When copying to src/messages.ts, make sure to put quotes around each text and separate them with commas.
+=============================
+TO CHANGE WEBSITE TEXT:
+Edit the file: public/messages.json
+The website will update automatically!
+=============================

@@ -1,9 +1,10 @@
 import { Card } from '@/components/ui/card';
 import koalaCelebration from '@/assets/koala-celebration.jpg';
 import birthdayDecoration from '@/assets/birthday-cake.jpg';
-import { messages } from '@/messages';
+import { useMessages } from '@/hooks/useMessages';
 
 const PhotoGallery = () => {
+  const messages = useMessages();
   return (
     <div className="min-h-screen py-16 px-6 relative overflow-hidden">
       {/* Magical floating elements */}
