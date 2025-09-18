@@ -1,5 +1,5 @@
 import { Card } from '@/components/ui/card';
-import girlKoalaBirthday from '@/assets/girl-koala-birthday.jpg';
+import girlKoalaBirthday from '@/assets/girl-koala-cake.jpg';
 
 const LoveLetter = () => {
   return (
