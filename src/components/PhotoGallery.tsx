@@ -30,10 +30,10 @@ const PhotoGallery = () => {
           <div className="absolute inset-0 text-4xl md:text-6xl font-vibes text-pink-300/30 blur-lg animate-pulse">
             🐨 Magical Birthday Memories for My Princess 🎂
           </div>
-          <h2 className="relative text-4xl md:text-6xl font-vibes text-pink-300 mb-8 drop-shadow-lg animate-heart-beat">
-            🐨 Magical Birthday Memories for My Princess 🎂
-          </h2>
-          <p className="text-2xl md:text-3xl font-dancing text-pink-100 animate-fade-in">
+           <h2 className="relative text-4xl md:text-6xl font-vibes text-black mb-8 drop-shadow-lg animate-heart-beat">
+             🐨 Magical Birthday Memories for My Princess 🎂
+           </h2>
+           <p className="text-2xl md:text-3xl font-dancing text-black animate-fade-in">
             Every moment with you is a treasure worth celebrating! 💎✨
           </p>
         </div>
@@ -51,10 +51,10 @@ const PhotoGallery = () => {
                 className="w-full h-64 object-cover rounded-lg mb-6 border-4 border-white/30 group-hover:border-pink-300/50 transition-all duration-500"
               />
               <div className="space-y-4">
-                <h3 className="text-2xl md:text-3xl font-dancing text-pink-300 animate-heart-beat">
-                  🎉 Royal Koala Birthday Kingdom 🎉
-                </h3>
-                <p className="text-lg md:text-xl text-pink-100 font-poppins leading-relaxed">
+                 <h3 className="text-2xl md:text-3xl font-dancing text-black animate-heart-beat">
+                   🎉 Royal Koala Birthday Kingdom 🎉
+                 </h3>
+                 <p className="text-lg md:text-xl text-black font-poppins leading-relaxed">
                   Just like these adorable koalas celebrating in their magical kingdom, today is all about celebrating YOU, my beautiful princess Anjana! May your day overflow with infinite joy, endless laughter, and sweetness beyond imagination - just like these precious friends sharing their most special moment together! 👑✨🐨
                 </p>
               </div>
@@ -73,10 +73,10 @@ const PhotoGallery = () => {
                 className="w-full h-64 object-cover rounded-lg mb-6 border-4 border-white/30 group-hover:border-gold-300/50 transition-all duration-500"
               />
               <div className="space-y-4">
-                <h3 className="text-2xl md:text-3xl font-dancing text-pink-300 animate-heart-beat">
-                  🎂 Enchanted Sweet 16 Dreams 🎂
-                </h3>
-                <p className="text-lg md:text-xl text-pink-100 font-poppins leading-relaxed">
+                 <h3 className="text-2xl md:text-3xl font-dancing text-black animate-heart-beat">
+                   🎂 Enchanted Sweet 16 Dreams 🎂
+                 </h3>
+                 <p className="text-lg md:text-xl text-black font-poppins leading-relaxed">
                   A cake as beautiful and magical as you deserve, my darling! As you make your wish and blow out these candles, know that my greatest wish is for your eternal happiness, endless dreams coming true, and our love story to continue forever and always. Sweet sixteen has never looked so absolutely perfect! 💫🌟💕
                 </p>
               </div>
@@ -88,10 +88,10 @@ const PhotoGallery = () => {
         <div className="text-center mb-16 relative">
           <div className="bg-gradient-to-r from-pink-400/20 via-purple-400/20 to-gold-400/20 backdrop-blur-md rounded-3xl p-12 border-4 border-white/30 shadow-romantic animate-pulse">
             <div className="absolute inset-0 bg-gradient-to-r from-pink-300/10 to-purple-300/10 rounded-3xl animate-heart-beat"></div>
-            <h3 className="relative text-3xl md:text-5xl font-dancing text-pink-200 mb-6 animate-bounce-in drop-shadow-lg">
-              🎈 Happy Birthday My Life, My Soul, My Everything Anjana! 🎈
-            </h3>
-            <p className="relative text-xl md:text-2xl text-pink-100 font-poppins animate-fade-in">
+             <h3 className="relative text-3xl md:text-5xl font-dancing text-black mb-6 animate-bounce-in drop-shadow-lg">
+               🎈 Happy Birthday My Life, My Soul, My Everything Anjana! 🎈
+             </h3>
+             <p className="relative text-xl md:text-2xl text-black font-poppins animate-fade-in">
               You don't just make every day brighter - you ARE the light, the magic, the wonder that makes my entire universe shine with infinite love and beauty! 💫👑✨
             </p>
           </div>
@@ -103,10 +103,10 @@ const PhotoGallery = () => {
             <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-r from-pink-400/5 to-purple-400/5 animate-float"></div>
           </div>
           
-          <h3 className="relative text-4xl md:text-5xl font-dancing text-pink-300 mb-6 animate-heart-beat drop-shadow-lg">
-            🎉 Sweet 16 Never Looked So Absolutely Divine! 🎉
-          </h3>
-          <p className="relative text-xl md:text-2xl text-pink-100 mb-8 font-poppins leading-relaxed">
+           <h3 className="relative text-4xl md:text-5xl font-dancing text-black mb-6 animate-heart-beat drop-shadow-lg">
+             🎉 Sweet 16 Never Looked So Absolutely Divine! 🎉
+           </h3>
+           <p className="relative text-xl md:text-2xl text-black mb-8 font-poppins leading-relaxed">
             Anjana, my precious angel, you are not just the sweetest, most wonderful person - you are my heart, my soul, my reason for existing! Today we celebrate the most beautiful miracle that ever happened to this world - YOU! May this magical day overflow with infinite love, boundless laughter, and all your heart's deepest desires - especially endless koala cuddles! 🐨💕👑
           </p>
           <div className="text-5xl md:text-6xl animate-bounce-in font-vibes space-x-4">
